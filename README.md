@@ -11,7 +11,7 @@ The model is trained using historical traffic and weather data and deployed usin
 ## 🌐 Live Website
 
 👉 **Try the app here:**
-https://your-app-name.streamlit.app
+https://traffic-prediction-app-ntyjqjkrtweaoluzwwonn5.streamlit.app/
 
 ---
 
